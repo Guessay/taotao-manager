@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="ac5508fe-307b-4518-95f9-e3efec9e5c2d" name="Default" comment="" />
+    <list default="true" readonly="true" id="ac5508fe-307b-4518-95f9-e3efec9e5c2d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/taotao_manager_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/taotao_manager_service_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-service/taotao-manager-service.iml" afterPath="$PROJECT_DIR$/taotao-manager-service/taotao-manager-service.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager-dao/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager-pojo/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager-interface/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager-service/target/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,14 +27,39 @@
       <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-              <folding>
-                <element signature="e#1222#1235#0" expanded="true" />
-                <element signature="e#1279#1297#0" expanded="true" />
-                <element signature="e#1341#1359#0" expanded="true" />
-                <element signature="e#1410#1426#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taotao-manager-service.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manager-service/taotao-manager-service.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlMapConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/mybatis/SqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -36,17 +68,17 @@
         <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-manager-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="15">
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -68,6 +100,9 @@
       <find>pageh</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -77,18 +112,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/taotao-manager-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/taotao-manager-service/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderShippingExample.java" />
         <option value="$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemDescExample.java" />
         <option value="$PROJECT_DIR$/taotao-manager-dao/src/main/java/com/taotao/mapper/TbOrderItemMapper.java" />
         <option value="$PROJECT_DIR$/taotao-manager-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/resources/mybatis/SqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/resources/properties/db.properties" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-dao.xml" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -136,6 +171,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -151,8 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,15 +226,6 @@
               <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -216,8 +241,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +255,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="add_unversioned_files" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -350,12 +378,13 @@
       <option name="presentableId" value="Default" />
       <updated>1523252290519</updated>
       <workItem from="1523252292580" duration="2899000" />
-      <workItem from="1523278008063" duration="14347000" />
+      <workItem from="1523278008063" duration="14752000" />
+      <workItem from="1523446326081" duration="408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17246000" />
+    <option name="totallyTimeSpent" value="18059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -372,19 +401,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -392,11 +419,39 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -406,155 +461,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemDesc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParamItemExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderShippingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContentCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContentCategoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemCatExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemDescExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItem.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbUser.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemDesc.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParamItemExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParamExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderShippingExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContent.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemCat.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderItem.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContentCategory.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContentCategoryExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParam.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContentExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemCatExample.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemDescExample.java" />
     <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUserExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,9 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,17 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,15 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,185 +651,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-          <folding>
-            <marker date="1523427152444" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1523427152444" expanded="false" signature="146:3221" ph="..." />
-            <marker date="1523427152444" expanded="false" signature="5144:5155" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="5167:5173" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="5220:6342" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="6401:9213" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="9261:9272" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="9308:9314" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="9392:9463" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="9502:9513" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="9540:9546" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="9586:9597" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="9625:9631" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="9693:9871" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="9906:9917" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="9942:9948" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="9976:10366" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="10396:11916" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="11949:11960" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="11989:11995" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="12026:12037" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="12056:12062" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="12106:12379" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="12438:13592" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="13638:14847" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="14909:16658" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="16703:23364" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="23404:23730" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="23781:24494" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="24545:24908" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="24954:25724" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="25787:26475" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="26519:26935" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="26977:27846" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="27899:28559" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="28607:29564" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="29609:30567" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="30615:31184" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="31225:32263" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="32334:32390" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="32479:32774" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="32846:32902" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="33002:33094" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="33189:36465" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="36528:36980" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="37072:40529" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="40646:42581" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="42670:46135" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="46175:46186" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="46222:46228" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="46288:46585" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="46611:48873" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="48907:49410" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="48988:49058" ph="run() → {" />
-            <marker date="1523427152444" expanded="false" signature="49372:49391" ph="}" />
-            <marker date="1523427152444" expanded="true" signature="49446:49833" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="49526:49596" ph="run() → {" />
-            <marker date="1523427152444" expanded="false" signature="49795:49814" ph="}" />
-            <marker date="1523427152444" expanded="false" signature="49873:49884" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="49912:49918" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="49989:50378" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="50459:51527" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="51626:53154" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="53202:53213" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="53233:53239" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="53287:53298" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="53318:53324" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="53416:53796" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="53830:53841" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="53871:53877" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="53912:53923" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="53954:53960" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="53996:54185" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="54218:54229" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="54252:54258" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="54298:54309" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="54345:54351" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="54386:54574" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="54608:54795" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="54833:54844" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="54918:54924" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="54959:54970" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="54995:55001" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="55035:55222" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="55251:55483" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="55544:59327" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="59370:59381" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="59414:59420" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="59468:60540" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="60575:62635" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="62696:63169" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="63217:63480" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="63524:63680" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="63724:63880" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="63916:64173" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="64199:64210" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="64229:64235" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="64279:65953" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="65991:66205" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="66245:66256" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="66286:66292" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="66338:66537" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="66582:66780" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="66822:66833" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="66865:66871" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="66912:66923" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="66964:66970" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="67010:67021" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="67051:67057" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="67094:67105" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="67139:67145" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="67177:67188" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="67211:67217" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="67254:67265" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="67337:67343" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="67370:67559" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="67592:67603" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="67632:67638" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="67669:70560" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="70626:72800" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="72855:73546" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="73578:73589" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="73623:73629" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="73680:73691" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="73718:73724" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="73786:73837" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="73889:73990" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="74045:77349" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="77396:81449" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="81495:81506" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="81556:81562" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="81609:81620" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="81670:81676" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="81729:81740" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="81788:81794" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="81844:81996" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="82063:82435" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="82462:82473" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="82490:82496" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="82546:82936" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="82978:83375" ph="{...}" />
-            <marker date="1523427152444" expanded="false" signature="83418:83429" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="83460:83466" ph=" }" />
-            <marker date="1523427152444" expanded="false" signature="83533:83544" ph=" { " />
-            <marker date="1523427152444" expanded="false" signature="83589:83595" ph=" }" />
-            <marker date="1523427152444" expanded="true" signature="83669:83745" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="83789:83838" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="83893:86073" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="86119:86263" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="86293:86522" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="86555:87023" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="87072:87690" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="87117:87187" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="87215:87684" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="87741:88006" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="87772:87783" ph="{}" />
-            <marker date="1523427152444" expanded="true" signature="87811:88000" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="88064:88995" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="88118:88188" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="88216:88989" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="89052:92288" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="89105:89175" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="89203:92282" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="92348:94669" ph="{...}" />
-            <marker date="1523427152444" expanded="true" signature="92425:92436" ph="{}" />
-            <marker date="1523427152444" expanded="true" signature="92464:94663" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="96" column="3" lean-forward="true" selection-start-line="96" selection-start-column="3" selection-end-line="96" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" />
     <entry file="uml://SpringLocalModels/module=taotao-manager-service">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -962,6 +672,7 @@
           <Categories>
             <Category>Show filesets as groups</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
@@ -973,31 +684,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-dao.xml">
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/taotao-manager-service.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding>
-            <element signature="e#1222#1235#0" expanded="true" />
-            <element signature="e#1279#1297#0" expanded="true" />
-            <element signature="e#1341#1359#0" expanded="true" />
-            <element signature="e#1410#1426#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="15">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
