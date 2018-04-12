@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 public class ItemServiceImpl implements ItemService {
 
     @Autowired
-    TbItemMapper itemMapper;
+    private TbItemMapper itemMapper;
 
     @Override
     public TbItem getItemById(long itemId) {

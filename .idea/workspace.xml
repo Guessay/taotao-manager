@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="ac5508fe-307b-4518-95f9-e3efec9e5c2d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotao-manager-interface/src/main/java/com/taotao/service/ItemService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/taotao_manager_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/taotao_manager_service_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager-service/pom.xml" afterPath="$PROJECT_DIR$/taotao-manager-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager-service/taotao-manager-service.iml" afterPath="$PROJECT_DIR$/taotao-manager-service/taotao-manager-service.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" afterPath="$PROJECT_DIR$/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-service/target/classes/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/taotao-manager-service/target/classes/spring/applicationContext-service.xml" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/taotao-manager-service/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-service/target/taotao-manager-service/WEB-INF/classes/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/taotao-manager-service/target/taotao-manager-service/WEB-INF/classes/spring/applicationContext-service.xml" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-service/target/taotao-manager-service/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/taotao-manager-service/target/taotao-manager-service/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,8 +39,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="28" />
+              <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +61,8 @@
       <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -71,8 +71,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-manager-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+            <state relative-caret-position="292">
+              <caret line="74" column="25" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="74" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -120,6 +120,7 @@
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-trans.xml" />
         <option value="$PROJECT_DIR$/taotao-manager-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -330,7 +331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21518000" />
+    <option name="totallyTimeSpent" value="23830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1556" y="133" width="1440" height="877" extended-state="0" />
@@ -433,7 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemParamExample.java" />
     <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbOrderShippingExample.java" />
     <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbContent.java" />
     <entry file="file://$PROJECT_DIR$/taotao-manager-pojo/src/main/java/pojo/TbItemCat.java" />
@@ -677,14 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/properties/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -697,14 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -725,10 +709,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="74" column="25" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="74" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
